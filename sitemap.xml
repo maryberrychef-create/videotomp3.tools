@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://videotomp3.tools</loc>
+<lastmod>2026-11-01T22:57:12.940Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://videotomp3.tools/privacy</loc>
+<lastmod>2026-11-01T22:57:12.940Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://videotomp3.tools/terms</loc>
+<lastmod>2026-11-01T22:57:12.940Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://videotomp3.tools/contact</loc>
+<lastmod>2026-11-01T22:57:12.940Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+</urlset>
