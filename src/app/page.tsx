@@ -10,7 +10,7 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
 
-      <h1 className="main__title">Free Local Video to MP3 Converter</h1>
+      <h1 className="main__title">Free Video to MP3 Converter Online</h1>
       <p className="main__subtitle">
         Convert MP4, MOV, AVI, WEBM, MKV to high-quality MP3 audio instantly in your browser. Upload any video file and get your audio in seconds with our 100% free, privacy-first tool. No signup, no software needed.
       </p>
